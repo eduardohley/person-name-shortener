@@ -1,0 +1,23 @@
+{
+  "name": "person-name-shortener",
+  "version": "1.0.0",
+  "description": "Shorten human names!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardohley/person-name-shortener.git"
+  },
+  "keywords": [
+    "utils",
+    "javascript"
+  ],
+  "author": "Eduardo Hernández Ley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardohley/person-name-shortener/issues"
+  },
+  "homepage": "https://github.com/eduardohley/person-name-shortener#readme"
+}
